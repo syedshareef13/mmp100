@@ -1,0 +1,37 @@
+body{background: rgb(255, 255, 102);}
+
+h1{color:#CB541C;
+ font-family : Helvetica;
+ font-size: 18px;}
+
+
+p{color: #CB541C
+  font-family:Helvetica;
+  font-size:16px; border:solid;}
+
+
+ a{color: #008CBA;
+    font-family: Helvetica;
+    color:white;
+    font-size :14px;
+    text-decoration: none;}
+    a:hover{colour :blue;}
+
+ ul{list-style-type: none;
+  			text-align: center;
+  			padding-top: 13px;
+  			margin:auto;}
+
+  li{display: inline;
+  		padding: 20px;
+  		background: black;
+      margin:20px;
+     	}
+
+img{margin: auto;
+       display: block;}
+
+   
+
+  
+
